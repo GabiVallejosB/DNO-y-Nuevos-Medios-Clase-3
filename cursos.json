@@ -1,0 +1,26 @@
+[{
+        "name": "Narrativa Coreana, Siglos XX y Xxi: Novela, Cuento y Cine",
+        "code": "LET310E",
+        "about": "El estudiante adquirirá conocimientos sobre la literatura y sociedad coreana en siglo XX y XXI con especial atención a novelas y cuentos de autores y autoras contemporáneas. Estos elementos se entregarán a través de lecturas, clases expositivas y muestras de filmes y de breves talleres. Los contenidos se evaluarán mediante pruebas, informes y presentaciones orales."
+    },
+    {
+        "name": "Design Bootcamp: Herramientas y Métodos Prácticos para Innovar",
+        "code": "DNO048",
+        "about": "En este curso las y los estudiantes de diversas disciplinas trabajarán en la creación de proyectos de innovación aplicando metodologías de diseño para facilitar su desarrollo. A través de técnicas, herramientas e instrumentos los estudiantes podrán potenciar la exploración creativa, el trabajo en equipos multidisciplinarios, la creación de conceptos y la propuesta de soluciones innovadoras y factibles. Para ello, se combinan clases expositivas con metodologías activas de trabajo en equipo. Se evaluará tanto el avance a lo largo del proceso como el resultado final del trabajo colaborativo a través de presentaciones en diversos formatos."
+    },
+    {
+        "name": "Manejo y Aplicación del Color",
+        "code": "DNO004",
+        "about": "El curso permite al alumno profundizar en el conocimiento del color, considerándolo como herramienta básica en el proceso perceptual y proyectual del diseño. Asimismo, el curso pretende desarrollar y poner en práctica la sensibilidad visual del estudiante, a través de la experiencia, mediante un proceso de exploración, comparación y reflexión. Con ello, sobre la base de un adecuado contexto teórico, podrá tomar decisiones respecto del color evaluando las variables actuales de aplicación."
+    },
+    {
+        "name": "English Language I",
+        "code": "LET0301",
+        "about": "La secuencia de cursos de Lengua Inglesa busca desarrollar, en los primeros cuatro semestres de la Licenciatura, las cuatro habilidades propias del aprendizaje de una lengua extranjera en niveles progresivos de dificultad. Este curso, Lengua Inglesa I, busca consolidar el manejo funcional y pragmático de la lengua extranjera en un nivel intermedio de competencia."
+    },
+    {
+        "name": "Teorías, Estrategias y Metodologías de Investigación Aplicadas al Diseño",
+        "code": "DNO0313",
+        "about": "El curso presenta las bases del pensamiento científico e introduce al estudiante en la formulación de proyectos, orientados a la obtención de fondos concursables. Asimismo, busca aportar al estudiante herramientas esenciales para articular su pensamiento para la investigación y la presentación de proyectos con la fundamentación necesaria, considerando su evaluación por terceros. De este modo, el estudiante podrá desarrollar proyectos estructurados, especialmente sustentados en indicadores verificables."
+    }
+]
